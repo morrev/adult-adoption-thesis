@@ -23,9 +23,9 @@ Description of Contents:
 The list and description of data files used can be found in the “metadata.pdf” file. These data files are located in the Importable and Original folders under the Data folder.
 
 Most of the files in the “Original” data folder have been kept unchanged in the “Importable” data folder, with the exception of:
-    • original_elderlycare2006to2016.xlsx
-    • original_primaryindustryGDP2001to2014.csv
-    • original_taxincome20**.xls
+- original_elderlycare2006to2016.xlsx
+- original_primaryindustryGDP2001to2014.csv
+- original_taxincome20**.xls
 These files have been manually organized to interpretable form through elementary excel operations due to inconsistencies in sheet numbers across the taxincome data files, and in formatting across the elderly care files. The data itself are left unchanged in all cases.
 
 ### Do-files:
