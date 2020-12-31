@@ -3,6 +3,7 @@ adult-adoption-thesis
 
 An exploration of factors underlying the comparatively high adult adoption rate in Japan.
 Undergraduate thesis, with data cleaning/analysis in R and Stata.
+Data sources utilized (e.g. adoption registrations, demographics) are under `metadata.txt`.
 
 Contents (Documentation):
 ----
