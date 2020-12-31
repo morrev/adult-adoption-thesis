@@ -1,0 +1,26 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2592\clbrdrt\brdrs\cellx4176
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx4176
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx4176
+\ql VARIABLES\cell\qc 1\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx4176
+\ql \cell\qc \cell\row
+\ql people65upperhh\cell\qc 0.000147\cell\row
+\ql \cell\qc (0.000573)\cell\row
+\ql avgannualincperhh\cell\qc 0\cell\row
+\ql \cell\qc (7.69e-11)\cell\row
+\ql empl5to9perhh\cell\qc 0.0501***\cell\row
+\ql \cell\qc (0.0103)\cell\row
+\ql empl300plusperhh\cell\qc -1.214\cell\row
+\ql \cell\qc (0.769)\cell\row
+\ql Constant\cell\qc 0.000551\cell\row
+\ql \cell\qc (0.000469)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 47\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx4176
+\ql R-squared\cell\qc 0.395\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

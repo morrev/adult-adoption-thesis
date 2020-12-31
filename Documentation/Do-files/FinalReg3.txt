@@ -1,0 +1,18 @@
+	(1)
+VARIABLES	1
+	
+people65upperhh	0.000147
+	(0.000573)
+avgannualincperhh	0
+	(7.69e-11)
+empl5to9perhh	0.0501***
+	(0.0103)
+empl300plusperhh	-1.214
+	(0.769)
+Constant	0.000551
+	(0.000469)
+	
+Observations	47
+R-squared	0.395
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
