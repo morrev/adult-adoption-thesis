@@ -21,7 +21,7 @@ Contents (Documentation):
 
 Description of Contents:
 ----
-### `Data`:
+### Data:
 The list and description of data files used can be found in the `metadata.txt` file. These data files are located in the Importable and Original folders under the `Data` folder.
 
 Most of the files in `Data/Original` have been kept unchanged in the `Data/Importable` data folder, with the exception of:
