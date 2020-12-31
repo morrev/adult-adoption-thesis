@@ -1,0 +1,144 @@
+File links as of May 9, 2018.
+
+original_regions:
+Prefectures and which of the 8 regions of Japan they belong to.
+
+original_prefecturelist:
+Prefecture column names in the original_thirdquartilenetsavingsallhh2014 dataset (for use in merging and data cleaning)
+
+original_bureautoprefecture:
+Legal Affairs Bureau. 
+http://houmukyoku.moj.go.jp/homu/static/kakukyoku_index.html
+Table created from map provided at link above. Lists the Japanese names of legal affairs bureaus, the corresponding English transliteration of the bureau name, and the corresponding prefecture.
+
+original_adoptions2006:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000001098210&fileKind=0
+Includes data on adoptions registered in 2006, by legal affairs bureau.
+
+original_adoptions2007:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000001294053&fileKind=0
+Includes data on adoptions registered in 2007, by legal affairs bureau.
+
+original_adoptions2008:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000004788978&fileKind=0
+Includes data on adoptions registered in 2008, by legal affairs bureau.
+
+original_adoptions2009:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000008205119&fileKind=0
+Includes data on adoptions registered in 2009, by legal affairs bureau.
+
+original_adoptions2010:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000012449188&fileKind=0
+Includes data on adoptions registered in 2010, by legal affairs bureau.
+
+original_adoptions2011:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000014892138&fileKind=0
+Includes data on adoptions registered in 2011, by legal affairs bureau.
+
+original_adoptions2012:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000022981889&fileKind=0
+Includes data on adoptions registered in 2012, by legal affairs bureau.
+
+original_adoptions2013:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000027231372&fileKind=0
+Includes data on adoptions registered in 2013, by legal affairs bureau.
+
+original_adoptions2014:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031283440&fileKind=0
+Includes data on adoptions registered in 2014, by legal affairs bureau.
+
+original_adoptions2015:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031457734&fileKind=0
+Includes data on adoptions registered in 2015, by legal affairs bureau.
+
+
+original_adoptions2016:
+Ministry of Justice, Koseki Tokei [family registry statistics].
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031626794&fileKind=0
+Includes data on adoptions registered in 2016, by legal affairs bureau.
+
+original_population2000to2015:
+Ministry of Internal Affairs and Communications, “Population Census.”
+https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=dataset&toukei=00200524&bunya_l=02&tstat=000000090001&stat_infid=000013168609&result_page=1
+Population by Age (Five-Year Groups) for Prefectures (as of October 1 of Each Year) - Total population (from 2000 to 2015)
+
+original_2007farmers:
+Bureau of Statistics, “Employment Status Survey.”
+https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200532&tstat=000001017285&cycle=0&tclass1=000001018594&tclass2=000001019318&stat_infid=000001234428&cycle_facet=cycle&second=1&second2=1
+Data on the number of working people by occupation (including farming), gender, age, and prefecture.
+
+original_2012farmers:
+Bureau of Statistics, “Employment Status Survey.”
+https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200532&tstat=000001058052&cycle=0&tclass1=000001060135&tclass2=000001060136&stat_infid=000021430922&second2=1
+Data on the number of working people by occupation (including farming), gender, age, and prefecture.
+
+original_2007selfemployed:
+Bureau of Statistics, “Employment Status Survey.”
+https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200532&tstat=000001017285&cycle=0&tclass1=000001018594&tclass2=000001019318&stat_infid=000001234422&second=1&second2=1
+Data on the number of working people by employment status (including the self-employed), gender, age, and prefecture.
+
+original_2012selfemployed:
+Bureau of Statistics, “Employment Status Survey.”
+https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200532&tstat=000001058052&second2=1&cycle=0&tclass1=000001060135&tclass2=000001060136&layout=datalist&stat_infid=000021430913
+Data on the number of working people by employment status (including the self-employed), gender, age, and prefecture.
+
+original_elderlycare2006to2016:
+Ministry of Health, Labour, and Welfare, “Survey of Social Welfare Institutions.”
+https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450041&tstat=000001030513
+Data on the number of occupants and capacity of social welfare institutions by prefecture.
+
+original_numelderlyincomeallhh2014:
+Ministry of Internal Affairs and Communications, “National Survey of Income and Expenditure.”
+https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200564&tstat=000001073908&cycle=0&tclass1=000001073965&tclass2=000001074840&tclass3=000001077457&stat_infid=000031346279
+Includes data on average yearly income (in thousand yen) and the number of people 65 years and older per household by prefecture for all households in 2014.
+
+original_primaryindustryGDP2001to2014:
+Cabinet Office, “Table 2.4: Prefectural Production by Economic Activity”
+http://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/main_h26.html
+Data on the composition of prefectural GDP (including breakdown by primary, secondary, and tertiary industry) from 2001 to 2014.
+
+original_thirdquartilenetsavingsallhh2014:
+Ministry of Internal Affairs and Communications, “National Survey of Income and Expenditure.”
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031379418&fileKind=0
+Data on the distribution of households by type of assets, property group of assets and prefecture for all households in 2014. 
+
+original_elderlyhhavgsavings2009:
+Ministry of Internal Affairs and Communications, “National Survey of Income and Expenditure.”
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000008303687&fileKind=0
+Includes data on the average amount of savings (in thousands of yen) by prefecture for households with two or more people, including at least one member not working and 65 years old and over in 2009. 
+
+original_elderlyhhavgsavings2014:
+Ministry of Internal Affairs and Communications, “National Survey of Income and Expenditure.”
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031346287&fileKind=0
+Includes data on the average amount of savings (in thousands of yen) by prefecture for households with two or more people, including at least one member not working and 65 years old and over in 2014. 
+
+original_prophhassets2plushh2009:
+Ministry of Internal Affairs and Communications, “National Survey of Income and Expenditure.”
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000008887767&fileKind=0
+Data on the distribution of assets for households with 2 or more members, by prefecture in 2009.
+
+original_prophhassets2plushh2014:
+Ministry of Internal Affairs and Communications, “National Survey of Income and Expenditure.”
+https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031379417&fileKind=0
+Data on the distribution of assets for households with 2 or more members, by prefecture in 2014.
+
+original_numhouseholds2014:
+Ministry of Internal Affairs and Communications.
+【総計】平成26年住民基本台帳人口・世帯数、平成25年度人口動態（都道府県別）
+http://www.soumu.go.jp/menu_news/s-news/01gyosei02_02000062.html
+Data on the number of households per prefecture in 2014.
+
+original_2014businessbysize:
+Statistics Bureau, “Table C, “Economic Base,” of the “Social Indicators by Prefecture.”
+http://www.e-stat.go.jp/SG1/estat/ListE.do?bid=000001084000&cycode=0 
+Data on the number of businesses by number of employees by prefecture in 2014.
